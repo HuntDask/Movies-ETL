@@ -1,6 +1,6 @@
 # Movies-ETL
 ## Overview
-In our project, we are asked to help create an automated pipeline that makes in new data, performs the approporiate transformations, and loads the data into existing tables. We used ETLS in our Jupyter Notebook Files to examine and study the codes from our module we are assigned. We are able to look at Wikipedia data, Kaggle metadata, and the MoviesLens raiting data- and performs the ETL processes by adding the continuing data to the databases we created.
+In our project, we are asked to help create an automated pipeline that brings in new data, performs the approporiate transformations, and loads the data into existing tables. We used ETLS in our Jupyter Notebook Files to examine and study the codes from our module we are assigned. We are able to look at Wikipedia data, Kaggle metadata, and the MoviesLens raiting data and perform the ETL processes by adding the continuing data to the databases we created.
 
 ## Deliverable 1: Write an ETL Function to Read Three Data Files
 <img width="1058" alt="Wiki_movies_df" src="https://user-images.githubusercontent.com/107444840/185281366-7a47f6f6-7fd6-4841-bd37-d41c53277dba.png">
